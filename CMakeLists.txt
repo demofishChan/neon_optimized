@@ -1,7 +1,7 @@
 cmake_minimum_required (VERSION 2.8)
 
 #设置单元测试文件名称
-set(UNIT_TEST_FILE ./cvFilter2D3x3.cpp)
+set(UNIT_TEST_FILE ./integral1d_horizontal.cpp)
 
 include_directories(common)
 
